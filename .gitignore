@@ -1,0 +1,43 @@
+/.vs
+/.git
+/MinimumMapGen/x64
+
+#other debug:
+*.idb
+*.pdb
+*.tlog
+*.debug
+*.shm
+*.db-wal
+*.opendb
+*.ipch
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.out
+*.app
