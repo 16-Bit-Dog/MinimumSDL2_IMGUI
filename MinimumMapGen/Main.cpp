@@ -36,6 +36,12 @@ void StartFrameLogic(){
 void RenderLoop() {
     ImGui::Begin("Hi");
 
+
+
+    ImGui::Button("button");
+    ImGui::Text("Text");
+
+
     ImGui::End();
 }
 
